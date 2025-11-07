@@ -1,0 +1,8 @@
+.DS_Store
+.DS_Store?
+.idea/
+.vscode/
+go.sum
+build/
+logs/
+git_test/

@@ -1,0 +1,9 @@
+prefixes = [
+    { prefix = "feat", desc = "新功能" },
+    { prefix = "fix", desc = "修复bug" },
+    { prefix = "docs", desc = "文档更新" },
+    { prefix = "style", desc = "代码格式、规范" },
+    { prefix = "refactor", desc = "代码重构、优化" },
+    { prefix = "test", desc = "测试相关" },
+    { prefix = "chore", desc = "构建、依赖、配置等非业务代码" },
+]
