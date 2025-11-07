@@ -3,12 +3,12 @@ package picker
 import (
 	"errors"
 	"fmt"
-	"git-msg-picker/internal/git"
 	"strings"
 	"sync"
 	
 	"github.com/charmbracelet/bubbles/textinput"
 	"github.com/charmbracelet/bubbletea"
+	"github.com/kidyme/git-msg-picker/internal/git"
 )
 
 const DIR = "."

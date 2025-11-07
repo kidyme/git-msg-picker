@@ -3,9 +3,10 @@ package picker
 import (
 	"errors"
 	"fmt"
-	"git-msg-picker/internal/conf"
-	"github.com/charmbracelet/bubbletea"
 	"sync"
+	
+	"github.com/charmbracelet/bubbletea"
+	"github.com/kidyme/git-msg-picker/internal/conf"
 )
 
 var (

@@ -1,4 +1,4 @@
-module git-msg-picker
+module github.com/kidyme/git-msg-picker
 
 go 1.24.0
 

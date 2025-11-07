@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"git-msg-picker/internal/picker"
-	tea "github.com/charmbracelet/bubbletea"
 	"os"
+	
+	"github.com/charmbracelet/bubbletea"
+	"github.com/kidyme/git-msg-picker/internal/picker"
 )
 
 func main() {
